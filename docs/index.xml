@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Miramirkhani</title>
+    <link>http://seiiedali.github.io/</link>
+    <description>Recent content on Ali Miramirkhani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 08 Jul 2022 03:18:18 +0430</lastBuildDate><atom:link href="http://seiiedali.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We and the Body</title>
+      <link>http://seiiedali.github.io/posts/we-the-body/</link>
+      <pubDate>Fri, 08 Jul 2022 03:18:18 +0430</pubDate>
+      
+      <guid>http://seiiedali.github.io/posts/we-the-body/</guid>
+      <description>There is this body that we inherited from evolution and there is us which is still an unknown entity. The fact here is that this physical body can be studied and discovered to see what we should do with it, how it works, how we might hurt it, and so on. There is some topic which we will discuss further how the functionality of it works and how we might have hurt it by our new and modern kind of living, the type of living which evolution didn&amp;rsquo;t make us for.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://seiiedali.github.io/posts/skills/</link>
+      <pubDate>Fri, 08 Jul 2022 03:07:20 +0430</pubDate>
+      
+      <guid>http://seiiedali.github.io/posts/skills/</guid>
+      <description>Earned skills vs. Built-in skill You may have experienced all sorts of insecurities and lack of soft and hard skills throughout your life and always wondered why you should have to try so hard to be confident in front of the crowd or why I need to be prepared to be a funny gut and why it takes me days to understand a math problem when my classmate already know the answer.</description>
+    </item>
+    
+    <item>
+      <title>Here I am</title>
+      <link>http://seiiedali.github.io/posts/examplepost/</link>
+      <pubDate>Fri, 08 Jul 2022 03:03:56 +0430</pubDate>
+      
+      <guid>http://seiiedali.github.io/posts/examplepost/</guid>
+      <description>Well now you get to know me I&amp;rsquo;m not sure if really works but lets give a try.</description>
+    </item>
+    
+  </channel>
+</rss>
